@@ -1,0 +1,17 @@
+{
+  "groqKey": "gsk_...",
+  "groqModel": "llama-3.3-70b-versatile",
+  "timezone": "Asia/Manila",
+  "developer": "YourName",
+  "prefix": "/",
+  "subprefix": ["#", "-", "+"],
+  "devID": ["YOUR_TELEGRAM_USER_ID"],
+  "premium": ["PREMIUM_USER_ID"],
+  "maintenance": false,
+  "maintenanceIgnore": [],
+  "hideNotiMessage": {
+    "commandNotFound": false,
+    "needRoleToUseCmd": false
+  },
+  "autoRestart": null
+}
